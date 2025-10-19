@@ -19,7 +19,7 @@ It is designed for performing import / audit / reconciliation tasks between an e
 - Access or export of your external source of user data (CSV, database, etc).  
 - Required Python libraries (see next section).
 
-### Installation  
+### Installation & Running
 ```bash
 git clone https://github.com/Aquese/Okta-Import-Source.git
 cd Okta-Import-Source
